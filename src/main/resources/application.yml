@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: yoj-codesanbox
+server:
+  port: 8202
