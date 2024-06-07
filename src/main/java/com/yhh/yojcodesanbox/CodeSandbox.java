@@ -1,7 +1,7 @@
-package com.yhh.yoj.judge.codesandbox;
+package com.yhh.yojcodesanbox;
 
-import com.yhh.yoj.judge.codesandbox.model.ExecuteCodeRequest;
-import com.yhh.yoj.judge.codesandbox.model.ExecuteCodeResponse;
+import com.yhh.yojcodesanbox.model.ExecuteCodeRequest;
+import com.yhh.yojcodesanbox.model.ExecuteCodeResponse;
 
 /**
  * 代码沙箱接口
